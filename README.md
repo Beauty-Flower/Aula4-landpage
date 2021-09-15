@@ -6,7 +6,7 @@ São páginas com foco principal de conversão dos visitantes. Assim, essas pág
 
 ## WebSite
 O site pode ser acessado pelo link: 
-[Florbela Freitas](https://github.com/Florbela-Freitas/Aula4-landpage)
+[Florbela Freitas](file:///Z:/Lima/aula4-landpage/index.html)
 
 ## Tecnologias
 * HTML5
